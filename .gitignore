@@ -1,0 +1,4 @@
+# Dossiers de build et fichiers système
+build/
+.DS_Store
+Thumbs.db
