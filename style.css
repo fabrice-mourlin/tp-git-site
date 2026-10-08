@@ -7,3 +7,10 @@ pre, code {
   background-color: ghostwhite !important;
   color: black;
 }
+
+.info {
+  background-color: #e7f3fe;
+  color: #31708f;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+}
